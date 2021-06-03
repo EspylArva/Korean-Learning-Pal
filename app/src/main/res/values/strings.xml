@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Korean Learning Pal</string>
+    <string name="title_learning">Apprentissage</string>
+    <string name="title_testing">Tester les connaissances</string>
+    <string name="title_evaluation">Evaluation</string>
+    <string name="lorem">Lorem Ipsum</string>
+    <string name="valid_score">Réponses correctes :</string>
+    <string name="invalid_score">Réponses incorrectes :</string>
+</resources>
